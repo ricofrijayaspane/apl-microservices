@@ -1,0 +1,24 @@
+# Node.js dependencies
+node_modules/
+
+# Log files
+logs
+*.log
+
+# Docker files
+docker-compose.override.yml
+docker-compose.*.yml
+
+# Environment variables
+.env
+
+# MongoDB data
+mongo-data/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
